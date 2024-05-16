@@ -1,0 +1,4 @@
+1;Client=Gerard;Date=15-03-2024 11:34:58;
+1;Products=fresa,40,00 €;
+1;Amount=41,60 €;
+

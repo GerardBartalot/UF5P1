@@ -1,0 +1,11 @@
+Manzana; 10.00; 10; 
+Pera; 20.00; 20;
+Hamburguesa; 30.00; 30;
+Fresa; 5.00; 20;
+Melocotón; 20.00; 10; 
+Mango; 20.00; 20;
+Aguacate; 30.00; 30;
+Cereza; 15.00; 20;
+Naranja; 20.00; 10; 
+Kiwi; 30.00; 20;
+Pomelo; 25.00; 30;
